@@ -1,6 +1,6 @@
 # Thinkgo Official Website
 <!-- Markdown snippet -->
-[![Build Status](https://travis-ci.org/thinkoner/thinkoner.github.io.svg?branch=master)](https://travis-ci.org/thinkoner/thinkoner.github.io)
+[![Build Status](https://travis-ci.org/thinkoner/thinkgo-site.svg?branch=master)](https://travis-ci.org/thinkoner/thinkgo-site)
 
 The website for Thinkgo.
 
@@ -9,8 +9,8 @@ The website for Thinkgo.
 Install dependencies:
 
 ``` bash
-$ git clone https://github.com/thinkoner/thinkoner.github.io.git
-$ cd thinkoner.github.io
+$ git clone https://github.com/thinkoner/thinkgo-site.git
+$ cd thinkgo-site
 $ npm install
 ```
 
