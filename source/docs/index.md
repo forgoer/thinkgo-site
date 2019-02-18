@@ -10,7 +10,7 @@ ThinkGo is a fast, simple and powerful web framework written in Go (Golang). Tha
 
 The only requirement is the [Go Programming Language](https://golang.org/dl/). If you encounter a problem and can't find the solution here, please [submit a GitHub issue](https://github.com/thinkoner/thinkgo/issues) and I'll try to solve it.
 
-Just install Hexo with `go get`:
+Just install ThinkGo with `go get`:
 
 ``` bash
 $ go get github.com/thinkoner/thinkgo
